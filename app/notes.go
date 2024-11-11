@@ -10,6 +10,7 @@ import (
 	"strconv"
 	"text/template"
 
+	// add safesql package instead of database/sql
 	_ "embed"
 )
 
